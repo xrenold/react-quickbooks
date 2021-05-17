@@ -12,4 +12,4 @@ jobs:
         with:
           project: test-action
           column: todo
-          repo-token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          repo-token: ${{ secrets.ACCESS_TOKEN }}
